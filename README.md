@@ -654,10 +654,10 @@ Install:
 If the project has been published to GitHub, clone it using:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Sih-ab/global-food-price-intelligence.git
 ```
 
-Replace `YOUR_REPOSITORY_URL` with the actual repository URL.
+Clone the repository using the command above.
 
 Alternatively, open your existing project folder directly in Visual Studio Code.
 
