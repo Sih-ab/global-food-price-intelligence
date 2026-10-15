@@ -1,4 +1,12 @@
-# 🌾 Global Food Price Intelligence
+﻿# 🌾 Global Food Price Intelligence
+
+## 🚀 Live Demo
+
+🔗 **[Open Live Dashboard](https://global-food-price-intelligence-jsanx9zkpdrhzuekjrsfb9.streamlit.app/)**
+
+Explore Bangladesh food price trends, compare markets, and analyze historical price estimates using our interactive dashboard.
+
+---
 
 ### Food Price Analytics, Anomaly Detection & Forecasting in Bangladesh
 
