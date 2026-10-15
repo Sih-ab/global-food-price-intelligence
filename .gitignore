@@ -25,6 +25,3 @@ desktop.ini
 # Temporary files
 *.log
 *.tmp
-
-# Dataset (keep out of GitHub for now)
-data/raw/*.csv
